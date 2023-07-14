@@ -11,7 +11,7 @@ Tools Used :
 - Power Bi
 - PowerPoint
 
-Data source
+data quetions
 
 ![Screenshot (73)](https://github.com/KDurgaManojKumar/CodeX-insights/assets/100594641/78069f66-bfe5-4bea-864d-a9181fd97e07)
 
