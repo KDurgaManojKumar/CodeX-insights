@@ -102,7 +102,7 @@ FROM fact_survey_responses
 GROUP BY Focus_Area
 order by Focus_Area desc;
 
-
+/* 7b */
 
 SELECT Age, City, COUNT(*) AS Respondent_Count
 FROM dim_repondents
